@@ -52,7 +52,7 @@
 
 ## Worker Node Processes:
 
-![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/11%20Worker Node Processes.PNG)
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/11%20Worker%20Node%20Processes.PNG)
 
 
 ## Kubelet:
@@ -62,7 +62,7 @@
 
 ## Master Node Processes:
 
-![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/13%20Master Node Processes.PNG)
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/13%20Master%20Node%20Processes.PNG)
 
 
 ## minikube:
