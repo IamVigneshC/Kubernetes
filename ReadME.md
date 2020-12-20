@@ -4,9 +4,8 @@ According to the Kubernetes website,
 
 "Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications."
 
-## Components of Kubernetes:
 
-![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/Resources/kubernetes_logo.png)
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/Resources/kubernetes-logo.png)
 
 
 Kubernetes comes from the Greek word κυβερνήτης, which means helmsman or ship pilot. With this analogy in mind, we can think of Kubernetes as the pilot on a ship of containers. Kubernetes is also referred to as k8s (pronounced Kate's), as there are 8 characters between k and s.
@@ -22,6 +21,9 @@ Kubernetes offers a very rich set of features for container orchestration. Some 
 - Storage orchestration
 - Batch execution
 
+## Architecture
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/Resources/kub.svg)
 
 ## Components of Kubernetes:
 
