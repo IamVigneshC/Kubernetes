@@ -70,7 +70,29 @@
 ![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/14%20minikube.PNG)
 
 
+
+## Abstraction Layer:
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/AbstractionLayers.png)
+
+
+## Master and Worker Nodes:
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/MasterandWorkerNodes.png)
+
+
+## Production Cluster Set-up:
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/ProductionClusterSetup.png)
+
+
 ## kubectl:
 
 ![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/15%20kubectl.PNG)
 
+## Kubectl Commands:
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/kubectlcommanda1.png)
+
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/kubectlcommands2.png)
