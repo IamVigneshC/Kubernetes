@@ -95,4 +95,9 @@
 ![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/kubectlcommanda1.png)
 
 
+## Ingress:
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/Ingress.png)
+
+
 ![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/kubectlcommands2.png)
