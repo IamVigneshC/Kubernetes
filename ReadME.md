@@ -95,9 +95,33 @@
 ![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/kubectlcommanda1.png)
 
 
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/kubectlcommands2.png)
+
+
 ## Ingress:
 
 ![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/Ingress.png)
 
 
-![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/kubectlcommands2.png)
+## Namespace:
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/Namespace.png)
+
+
+
+## Helm package manager, Templating Engine, Release Management:
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/Healmchart2.png)
+
+
+### Helm chart:
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/Helmchart.png)
+
+
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/HelmChart1.png)
+
+
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/Helmrelease.png)
