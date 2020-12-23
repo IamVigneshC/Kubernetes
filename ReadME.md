@@ -115,6 +115,11 @@ Kubernetes offers a very rich set of features for container orchestration. Some 
 
 ![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/15%20kubectl.PNG)
 
+
+
+![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/Resources/kubectlcom.png)
+
+
 ## Kubectl Commands:
 
 ![Image of K](https://github.com/IamVigneshC/Kubernetes/blob/main/kubectlcommanda1.png)
